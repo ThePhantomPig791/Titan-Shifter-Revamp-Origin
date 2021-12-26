@@ -13,6 +13,7 @@ Change logs (since null's datapack):
 Added 4 titans: Attack, Female, Armored, and Colossal.
 Added a Subject of Ymir origin, which, upon selection, will let the player pick from the avalible titans.
 When transforming, your skin changes to the titan's skin, using the FabricTailor mod.
+Created a pack.png
 
 Installation instructions are at the bottom of the doc, after skin credits.
  
