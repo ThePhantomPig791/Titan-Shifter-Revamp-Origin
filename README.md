@@ -112,7 +112,10 @@ Put the datapack in the datapacks folder of the world
 You should be good to go! Select the Subject of Ymir origin and select your Titan!
 
 FAQ: 
-I get a message about not being able to change my skin and how I need to wait! Help!
+**I get a message about not being able to change my skin and how I need to wait! Help!**/
 Go into the mod config for fabrictailor on the server and change the delay to -1.
+
+**I can't find the colossal titan! Help!**/
+In order to select the colossal, you need to get it with the random option. When selecting it, there is a 1 in 10 chance for you to get the colossal. If you don't mind cheating, you can also use ``/origin set @s origins:titan usernull:colossal``.
 
 DM me about any bugs or issues, please and thanks!
