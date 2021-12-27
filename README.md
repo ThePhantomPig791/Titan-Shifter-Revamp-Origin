@@ -1,6 +1,8 @@
 # Titan-Shifter-Revamp-Origin
 A datapack that brings Titan Shifters from the anime Attack On Titan into Minecraft using the Origins mod! User_NULL created the base pack with only one titan, but I've gotten his permission to update it!
 
+FAQ at the bottom of page
+
 Credits: 
 First of all, user_NULL#3958 (discord) did most of the framework here. I'm only expanding the pack to have more content.
 Second of all, The Katt in The Hat#0662 (discord) found the skins and edited some of them. Huge thanks to them!!!!!
@@ -108,5 +110,9 @@ Install FabricTailor (skin changing mod, pack won't work without it) (It can be 
 Install Pehkui (size changing mod)
 Put the datapack in the datapacks folder of the world 
 You should be good to go! Select the Subject of Ymir origin and select your Titan!
+
+FAQ: 
+I get a message about not being able to change my skin and how I need to wait! Help!
+Go into the mod config for fabrictailor on the server and change the delay to -1.
 
 DM me about any bugs or issues, please and thanks!
