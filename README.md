@@ -119,3 +119,7 @@ Go into the mod config for fabrictailor on the server and change the delay to -1
 In order to select the colossal, you need to get it with the random option. When selecting it, there is a 1 in 10 chance for you to get the colossal. If you don't mind cheating, you can also use ``/origin set @s origins:titan usernull:colossal``.
 
 DM me about any bugs or issues, please and thanks!
+
+
+
+_i just realized this is supposed to be version 1.3.0, not version 0.4.0, so next update will fix the version number lol_
