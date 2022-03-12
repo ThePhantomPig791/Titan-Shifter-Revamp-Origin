@@ -113,10 +113,10 @@ ___
 
 Credits 2:
 - Framework of the pack: user_NULL (pinged in the original discord message)
-- Armored Titan Skin: By Michiru
+- Armored Titan Skin: By Michiru https://www.planetminecraft.com/member/michiru/
 - Attack Titan Skin: By elquelavale
-- Female Titan Skin: By Michiru
-- Colossal Titan Skin: By Michiru
+- Female Titan Skin: By Michiru https://www.planetminecraft.com/member/michiru/
+- Colossal Titan Skin: By Michiru https://www.planetminecraft.com/member/michiru/
 - Female hardened skin + Armor shed skin: (Discord user, also pinged in the original message) The Katt In The Hat#0662
 
 ___
